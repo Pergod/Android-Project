@@ -1,1 +1,2 @@
-# MyAndroidProject
+ 利用Handler的计时器应用（Handler计时存在误差！）
+可暂停，重置，自定义圆形进度条
